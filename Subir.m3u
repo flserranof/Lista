@@ -1,0 +1,706 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="LA1.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/tve-1-es.png" tvg-name="LA1.es" group-title="SPAIN",LA 1
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3797?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="LA2.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/tve-2-es.png" tvg-name="LA2.es" group-title="SPAIN",LA 2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3846?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/antena-3-es.png" tvg-name="Antena3.es" group-title="SPAIN",ANTENA 3
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3790?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/cuatro-es.png" tvg-name="Cuatro.es" group-title="SPAIN",CUATRO
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3793?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/telecinco-es.png" tvg-name="Telecinco.es" group-title="SPAIN",TELECINCO
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3814?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="LaSexta.sp" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/lasexta-es.png" tvg-name="LaSexta.sp" group-title="SPAIN",LA SEXTA
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3798?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Telemadrid.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/tele-madrid-es.png" tvg-name="Telemadrid.es" group-title="SPAIN",Telemadrid
+https://telemadrid-23-secure2.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-id="LaOtra.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/laotra-es.png" tvg-name="LaOtra.es" group-title="SPAIN",La Otra
+https://laotra-1-23-secure2.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-id="FDF.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/fdf-es.png" tvg-name="FDF.es" group-title="SPAIN",Factoría de Ficción
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3841?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Energy.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/energy-es.png" tvg-name="Energy.es" group-title="SPAIN",ENERGY
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3840?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/tdp-es.png" tvg-name="Teledeporte.es" group-title="SPAIN",TELEDEPORTE
+https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main_1080.m3u8
+#EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/24h-es.png" tvg-name="24Horas.es" group-title="SPAIN",24 HORAS
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27213?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="ClanTVE.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/clan-es.png" tvg-name="ClanTVE.es" group-title="SPAIN",CLAN TVE
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3832?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/boing-es.png" tvg-name="Boing.es" group-title="SPAIN",BOING
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3826?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DisneyChannel.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/disney-channel-es.png" tvg-name="DisneyChannel.es" group-title="SPAIN",DISNEY CH
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3837?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Divinity.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/divinity-es.png" tvg-name="Divinity.es" group-title="SPAIN",DIVINITY
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3839?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Neox.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/neox-es.png" tvg-name="Neox.es" group-title="SPAIN",NEOX
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3851?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Nova.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/nova-es.png" tvg-name="Nova.es" group-title="SPAIN",NOVA
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3854?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Paramount.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/paramount-network-es.png" tvg-name="Paramount.es" group-title="SPAIN",PARAMOUNT
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/25871?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DMAX.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dmax-es.png" tvg-name="DMAX.es" group-title="SPAIN",DMAX
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/25857?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Mega.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/mega-es.png" tvg-name="Mega.es" group-title="SPAIN",MEGA
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/25854?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DKISS.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dkiss-es.png" tvg-name="DKISS.es" group-title="SPAIN",DKISS
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/25866?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="GOL.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/gol-es.png" tvg-name="GOL.es" group-title="SPAIN",GOL PLAY
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3843?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="A3seriesHD.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/atreseries-es.png" tvg-name="A3seriesHD.es" group-title="SPAIN",A3SERIES
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/25865?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/real-madrid-tv-es.png" tvg-name="RealMadridTV.es" group-title="SPAIN",Realmadrid TV
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/25867?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Trece.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/trece-es.png" tvg-name="Trece.es" group-title="SPAIN",TRECE
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/25853?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="BeMadTV.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/be-mad-tv-es.png" tvg-name="BeMadTV.es" group-title="SPAIN",BE MAD
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3824?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="TEN.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/ten-es.png" tvg-name="TEN.es" group-title="SPAIN",TEN
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/25869?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="BOMCine.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/bom-cine-es.png" tvg-name="BOMCine.es" group-title="SPAIN",BOM
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/25848?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="ElToro.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/el-toro-tv-es.png" tvg-name="ElToro.es" group-title="SPAIN",El Toro TV
+https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
+#EXTINF:-1 tvg-id="Distrito.TV" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/distrito tv.png" tvg-name="Distrito.TV" group-title="SPAIN",DistritoTV
+https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
+#EXTINF:-1 tvg-id="CanalSur.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/canal-sur-1-es.png" tvg-name="CanalSur.es" group-title="SPAIN",Canal Sur Andalucía
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/25851?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="CanalSur2.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/canal-sur-2-es.png" tvg-name="CanalSur2.es" group-title="SPAIN",CANALSUR 2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/25850?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="AndaluciaTVsat.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/andalucia-tv-es.png" tvg-name="AndaluciaTVsat.es" group-title="SPAIN",Andalucía TV
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/25847?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="CNN.nws" tvg-logo="" tvg-name="CNN.nws" group-title="SPAIN",CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="SPAIN",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-id="FoxLife.es" tvg-logo="" tvg-name="FoxLife.es" group-title="SPAIN",FOX Live
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/RED.png" tvg-name="" group-title="SPAIN",>>>>>>>>>>>>>>>>>>>> INFANTIL <<<<<<<<<<<<<<<<<<<<<<<
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27151?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DisneyJr.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/disney-junior-es.png" tvg-name="DisneyJr.es" group-title="SPAIN",DISNEY JR
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/410?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/nickelodeon-es.png" tvg-name="Nickelodeon.es" group-title="SPAIN",NICKELODEON
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/452?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="NickJunior.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/nick-jr-es.png" tvg-name="NickJunior.es" group-title="SPAIN",NICK JR
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/451?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Enfamilia.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/Enfamila.png" tvg-name="Enfamilia.es" group-title="SPAIN",ENFAMILIA
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/401?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="BabyTV.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/baby-tv-es.png" tvg-name="BabyTV.es" group-title="SPAIN",BABY TV
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/383?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Dreamworks.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dreamworks-channel-es.png" tvg-name="Dreamworks.es" group-title="SPAIN",DreamWorks
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26625?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/RED.png" tvg-name="" group-title="SPAIN",>>>>>>>>>>>>>>>>>>>> MUSICA <<<<<<<<<<<<<<<<<<<<
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27151?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M+Musica.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-fest-es.png" tvg-name="M+Musica.es" group-title="SPAIN",M+ Musica
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26664?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="MezzoLiveHD.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/mezzo-live-hd-es.png" tvg-name="MezzoLiveHD.es" group-title="SPAIN",MEZZO LIVE
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/369?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Classica.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/classica.png" tvg-name="Classica.es" group-title="SPAIN",Classica
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/404?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="MTVEsp.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/mtv-es.png" tvg-name="MTVEsp.es" group-title="SPAIN",MTV ESPANA
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/447?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/101 TV.png" tvg-name="" group-title="SPAIN",MUNDO
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27176?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/RED.png" tvg-name="" group-title="SPAIN",>>>>>>>>>>>>>>>>>>>> CINE <<<<<<<<<<<<<<<<<<<<
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27151?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M+Cine.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/Cine.png" tvg-name="M+Cine.es" group-title="SPAIN",M+ Cine
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3805?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="MovistarPlus.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/M+.png" tvg-name="MovistarPlus.es" group-title="SPAIN",Movistar Plus+
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27193?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="MovistarPlus.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/M+.png" tvg-name="MovistarPlus.es" group-title="SPAIN",Movistar Plus+ 2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27822?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.Accion.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-accion-es.png" tvg-name="M.Accion.es" group-title="SPAIN",M+ ACCION
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3799?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-accion-es.png" tvg-name="" group-title="SPAIN",M+ ACCION 2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27199?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.Comedia.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-comedia-es.png" tvg-name="M.Comedia.es" group-title="SPAIN",M+ COMEDIA
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3804?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.Drama.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-drama-es.png" tvg-name="M.Drama.es" group-title="SPAIN",M+ DRAMA
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3801?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-drama-es.png" tvg-name="" group-title="SPAIN",M+ DRAMA 2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27200?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.CineEspanol.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-cine-espanol-es.png" tvg-name="M.CineEspanol.es" group-title="SPAIN",M+ Cine Español
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/426?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.Clasicos.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-clasicos-es.png" tvg-name="M.Clasicos.es" group-title="SPAIN",M+ CLASICOS
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27214?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Hollywood.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/canal-hollywood-es.png" tvg-name="Hollywood.es" group-title="SPAIN",HOLLYWOOD
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/354?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/MCFUT.png" tvg-name="" group-title="SPAIN",M+ Terror
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/28025?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="TCM.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/tcm-es.png" tvg-name="TCM.es" group-title="SPAIN",TCM
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/373?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="WarnerTV.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/warner-tv-es.png" tvg-name="WarnerTV.es" group-title="SPAIN",Warner TV
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/375?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Somos.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/somos-es.png" tvg-name="Somos.es" group-title="SPAIN",SOMOS
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26342?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M+Originales.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/Originalespng.png" tvg-name="M+Originales.es" group-title="SPAIN",M+ Originales
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3796?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.Series.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-series-es.png" tvg-name="M.Series.es" group-title="SPAIN",M+ SERIES
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3803?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M+Suspense.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/suspense.png" tvg-name="M+Suspense.es" group-title="SPAIN",M+ Suspense
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3809?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Fox.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/fox-es.png" tvg-name="Fox.es" group-title="SPAIN",FOX
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/353?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M+Indie.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/M-Indie.png" tvg-name="M+Indie.es" group-title="SPAIN",M+Indie
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3789?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="AMC.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/amc-es.png" tvg-name="AMC.es" group-title="SPAIN",AMC
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/347?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="AXNhd.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/axn-es.png" tvg-name="AXNhd.es" group-title="SPAIN",AXN
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/349?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="AXNMovies.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/AXN-Movies.png" tvg-name="AXNMovies.es" group-title="SPAIN",AXN MOVIES
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/382?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Scifi.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/syfy-es.png" tvg-name="Scifi.es" group-title="SPAIN",SYFY
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/372?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Calle13.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/calle-13-es.png" tvg-name="Calle13.es" group-title="SPAIN",CALLE 13
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/350?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="ComedyCentral.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/comedy-central-es.png" tvg-name="ComedyCentral.es" group-title="SPAIN",COMEDYCENTRAL
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/405?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/RED.png" tvg-name="" group-title="SPAIN",>>>>>>>>>>>>>>>>>>>> DOCU <<<<<<<<<<<<<<<<<<<<
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27151?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M+LaResistencia.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/la resistencia.png" tvg-name="M+LaResistencia.es" group-title="SPAIN",M+ La Resistencia
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27187?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M+Documentales.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/MDocu.png" tvg-name="M+Documentales.es" group-title="SPAIN",M+Documentales
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3821?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Odisea.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/odisea-es.png" tvg-name="Odisea.es" group-title="SPAIN",CANAL ODISEA
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3829?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="NationalGeographic.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/national-geographic-es.png" tvg-name="NationalGeographic.es" group-title="SPAIN",NAT GEO
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/370?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="NatGeoWild.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/national-geographic-wild-es.png" tvg-name="NatGeoWild.es" group-title="SPAIN",NG WILD
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/371?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DiscoveryIberia.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/discovery-channel-es.png" tvg-name="DiscoveryIberia.es" group-title="SPAIN",DISCOVERY
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/408?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Historia.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/historia-es.png" tvg-name="Historia.es" group-title="SPAIN",HISTORIA
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/419?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="AMCBreak.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/amc break.png" tvg-name="AMCBreak.es" group-title="SPAIN",AMC BREAK
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3825?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="AMCCrime.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/amc crime.png" tvg-name="AMCCrime.es" group-title="SPAIN",AMC CRIME
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3835?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Decasa.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/decasa-es.png" tvg-name="Decasa.es" group-title="SPAIN",CANAL DECASA
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/398?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/caza-y-pesca-es.png" tvg-name="CazayPesca.es" group-title="SPAIN",CAZAyPESCA
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3831?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/iberalia-tv-es.png" tvg-name="IberaliaTV.es" group-title="SPAIN",IBERALIA TV
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/420?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/Mundotoro.png" tvg-name="" group-title="SPAIN",MUNDOTORO
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27234?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/Mundotoro.png" tvg-name="" group-title="SPAIN",MUNDO TORO
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27238?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="CosmopolitanHD.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/cosmo-es.png" tvg-name="CosmopolitanHD.es" group-title="SPAIN",COSMO
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/406?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Cocina.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/canal-cocina-es.png" tvg-name="Cocina.es" group-title="SPAIN",CANAL COCINA
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/397?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Sundance.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/sundance-tv-es.png" tvg-name="Sundance.es" group-title="SPAIN",SUNDANCE TV
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3856?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/RED.png" tvg-name="" group-title="SPAIN",>>>>>>>>>>>>>>>>>>>> SPORT <<<<<<<<<<<<<<<<<<<<
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27151?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M+Vamos.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/vamos-es.png" tvg-name="M+Vamos.es" group-title="SPAIN",M+ VAMOS
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3819?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M+Ellas#V.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/ellas.png" tvg-name="M+Ellas#V.es" group-title="SPAIN",M+ ELLAS V
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27189?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.Deportes.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-deportes-es.png" tvg-name="M.Deportes.es" group-title="SPAIN",M+ DEPORTES
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3800?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.Deportes2.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-deportes-2-es.png" tvg-name="M.Deportes2.es" group-title="SPAIN",M+ DEPORTES 2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/427?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZN_F1.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-f1-es.png" tvg-name="DAZN_F1.es" group-title="SPAIN",DAZN F1
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26627?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Golf.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-golf-es.png" tvg-name="Golf.es" group-title="SPAIN",M+ GOLF
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3802?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Eurosport1.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/eurosport-1-es.png" tvg-name="Eurosport1.es" group-title="SPAIN",EUROSPORT 1
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3794?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Eurosport2.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/eurosport-2-es.png" tvg-name="Eurosport2.es" group-title="SPAIN",EUROSPORT 2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/414?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-es.png" tvg-name="DAZNLaLiga.es" group-title="SPAIN",DAZN LaLiga
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27175?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZNLaLiga2.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-es.png" tvg-name="DAZNLaLiga2.es" group-title="SPAIN",DAZN LaLiga2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27163?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-laliga-es.png" tvg-name="M.LaLiga.es" group-title="SPAIN",M+ LaLigaTV
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3849?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LaLiga2.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-laliga-2-es.png" tvg-name="M.LaLiga2.es" group-title="SPAIN",M+ LaLigaTV 2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26045?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="LaLigaTVHypermotion.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/LigaSmartBamk.png" tvg-name="LaLigaTVHypermotion.es" group-title="SPAIN",Liga Hypermotion
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27166?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="LaLigaTVHypermotion2.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/LigaSmartBamk.png" tvg-name="LaLigaTVHypermotion2.es" group-title="SPAIN",Liga Hypermotion 2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27194?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="LaLigaTVHypermotion3.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-laliga-es.png" tvg-name="LaLigaTVHypermotion3.es" group-title="SPAIN",Liga Hypermotion 3
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27195?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-liga-de-campeones-es.png" tvg-name="M.LigaCampeones.es" group-title="SPAIN",M+ LCAMPEONES
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26078?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LigaCampeones2.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-liga-de-campeones-2-es.png" tvg-name="M.LigaCampeones2.es" group-title="SPAIN",M+ LCAMPEONES 2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26080?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LigaCampeones3.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-liga-de-campeones-3-es.png" tvg-name="M.LigaCampeones3.es" group-title="SPAIN",M+ LCAMPEONES 3
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26081?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZN1.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-1-es.png" tvg-name="DAZN1.es" group-title="SPAIN",DAZN 1
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26623?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZN2.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-2-es.png" tvg-name="DAZN2.es" group-title="SPAIN",DAZN 2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26624?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZN3.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-3-es.png" tvg-name="DAZN3.es" group-title="SPAIN",DAZN 3
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26628?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZN4.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-4-es.png" tvg-name="DAZN4.es" group-title="SPAIN",DAZN 4
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26629?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-4-es.png" tvg-name="ext" group-title="SPAIN",CANAL INFO FEFTV
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27785?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-4-es.png" tvg-name="ext" group-title="SPAIN",FEF TV 1
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27786?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-4-es.png" tvg-name="ext" group-title="SPAIN",FEF TV 2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27787?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-4-es.png" tvg-name="ext" group-title="SPAIN",FEF TV 3
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27788?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-4-es.png" tvg-name="ext" group-title="SPAIN",FEF TV 4
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27789?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-4-es.png" tvg-name="ext" group-title="SPAIN",FEF TV 5
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27790?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-4-es.png" tvg-name="ext" group-title="SPAIN",FEF TV 6
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27791?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-4-es.png" tvg-name="ext" group-title="SPAIN",FEF TV 7
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27792?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-4-es.png" tvg-name="ext" group-title="SPAIN",FEF TV 8
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27793?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-4-es.png" tvg-name="ext" group-title="SPAIN",FEF TV 9
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27794?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-4-es.png" tvg-name="ext" group-title="SPAIN",FEF TV 10
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27795?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-4-es.png" tvg-name="ext" group-title="SPAIN",FEF TV 11
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27796?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-4-es.png" tvg-name="ext" group-title="SPAIN",FEF TV 12
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27797?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-4-es.png" tvg-name="ext" group-title="SPAIN",FEF TV 13
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27798?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-4-es.png" tvg-name="ext" group-title="SPAIN",FEF TV 14
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27799?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-4-es.png" tvg-name="ext" group-title="SPAIN",FEF TV 15
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27800?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-4-es.png" tvg-name="ext" group-title="SPAIN",CANAL INFO FUTSAL
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27801?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-4-es.png" tvg-name="ext" group-title="SPAIN",FUTSAL TV 1
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27802?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-4-es.png" tvg-name="ext" group-title="SPAIN",FUTSAL TV 2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27803?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-4-es.png" tvg-name="ext" group-title="SPAIN",FUTSAL TV 3
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27804?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-4-es.png" tvg-name="ext" group-title="SPAIN",FUTSAL TV 4
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27805?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-4-es.png" tvg-name="ext" group-title="SPAIN",FUTSAL TV 5
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27806?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/RED.png" tvg-name="" group-title="SPORT-RESERVA",>>>>>>>>>>>>>>>>>>>> SPORT-RESERVA<<<<<<<<<<<<<<<<<<<<
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27151?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/multideporte.png" tvg-name="" group-title="SPORT-RESERVA",MULTIDEPORTE
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/449?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M+Vamos.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/vamos-es.png" tvg-name="M+Vamos.es" group-title="SPORT-RESERVA",M+ VAMOS
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/379?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M+Vamos.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/vamos-es.png" tvg-name="M+Vamos.es" group-title="SPORT-RESERVA",M+ VAMOS
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3819?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M+Vamos.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/vamos-es.png" tvg-name="M+Vamos.es" group-title="SPORT-RESERVA",M+ VAMOS
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26268?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M+Ellas#V.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/ellas.png" tvg-name="M+Ellas#V.es" group-title="SPORT-RESERVA",M+ ELLAS V
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27159?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M+Ellas#V.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/ellas.png" tvg-name="M+Ellas#V.es" group-title="SPORT-RESERVA",M+ ELLAS V
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27189?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.Deportes.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-deportes-es.png" tvg-name="M.Deportes.es" group-title="SPORT-RESERVA",M+ DEPORTES
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/359?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.Deportes.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-deportes-es.png" tvg-name="M.Deportes.es" group-title="SPORT-RESERVA",M+ DEPORTES
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3800?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.Deportes2.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-deportes-2-es.png" tvg-name="M.Deportes2.es" group-title="SPORT-RESERVA",M+ DEPORTES 2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/427?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.Deportes3.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-deportes-3-es.png" tvg-name="M.Deportes3.es" group-title="SPORT-RESERVA",M+ DEPORTES 3
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/429?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.Deportes4.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-deportes-4-es.png" tvg-name="M.Deportes4.es" group-title="SPORT-RESERVA",M+ DEPORTES 4
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/430?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.Deportes5.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-deportes-5-es.png" tvg-name="M.Deportes5.es" group-title="SPORT-RESERVA",M+ DEPORTES 5
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/431?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.Deportes6.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-deportes-6-es.png" tvg-name="M.Deportes6.es" group-title="SPORT-RESERVA",M+ DEPORTES 6
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/432?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.Deportes7.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-deportes-7-es.png" tvg-name="M.Deportes7.es" group-title="SPORT-RESERVA",M+ DEPORTES 7
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/433?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZN_F1.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-f1-es.png" tvg-name="DAZN_F1.es" group-title="SPORT-RESERVA",DAZN F1
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26626?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZN_F1.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-f1-es.png" tvg-name="DAZN_F1.es" group-title="SPORT-RESERVA",DAZN F1
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26627?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Golf.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-golf-es.png" tvg-name="Golf.es" group-title="SPORT-RESERVA",M+ GOLF
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/361?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Golf.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-golf-es.png" tvg-name="Golf.es" group-title="SPORT-RESERVA",M+ GOLF
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3802?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M+Golf2.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/" tvg-name="M+Golf2.es" group-title="SPORT-RESERVA",M+ GOLF 2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27230?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M+Golf2.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/" tvg-name="M+Golf2.es" group-title="SPORT-RESERVA",M+ GOLF 2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27231?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Eurosport1.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/eurosport-1-es.png" tvg-name="Eurosport1.es" group-title="SPORT-RESERVA",EUROSPORT 1
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/352?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Eurosport1.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/eurosport-1-es.png" tvg-name="Eurosport1.es" group-title="SPORT-RESERVA",EUROSPORT 1
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3794?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Eurosport2.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/eurosport-2-es.png" tvg-name="Eurosport2.es" group-title="SPORT-RESERVA",EUROSPORT 2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/414?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-es.png" tvg-name="DAZNLaLiga.es" group-title="SPORT-RESERVA",DAZN LaLiga
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27160?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-es.png" tvg-name="DAZNLaLiga.es" group-title="SPORT-RESERVA",DAZN LaLiga
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27173?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-es.png" tvg-name="DAZNLaLiga.es" group-title="SPORT-RESERVA",DAZN LaLiga
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27170?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-es.png" tvg-name="DAZNLaLiga.es" group-title="SPORT-RESERVA",DAZN LaLiga
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27174?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-es.png" tvg-name="DAZNLaLiga.es" group-title="SPORT-RESERVA",DAZN LaLiga
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27175?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-es.png" tvg-name="DAZNLaLiga.es" group-title="SPORT-RESERVA",DAZN LaLiga 2K
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27169?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-es.png" tvg-name="DAZNLaLiga.es" group-title="SPORT-RESERVA",DAZN LaLiga 4K
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27168?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-es.png" tvg-name="DAZNLaLiga.es" group-title="SPORT-RESERVA",DAZN LaLiga
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27226?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZNLaLiga2.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-es.png" tvg-name="DAZNLaLiga2.es" group-title="SPORT-RESERVA",DAZN LaLiga2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27161?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZNLaLiga2.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-es.png" tvg-name="DAZNLaLiga2.es" group-title="SPORT-RESERVA",DAZN LaLiga2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27163?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-laliga-es.png" tvg-name="M.LaLiga.es" group-title="SPORT-RESERVA",M+ LaLigaTV
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26046?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-laliga-es.png" tvg-name="M.LaLiga.es" group-title="SPORT-RESERVA",M+ LaLigaTV
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26248?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-laliga-es.png" tvg-name="M.LaLiga.es" group-title="SPORT-RESERVA",M+ LaLigaTV
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26246?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-laliga-es.png" tvg-name="M.LaLiga.es" group-title="SPORT-RESERVA",M+ LaLigaTV
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/435?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-laliga-es.png" tvg-name="M.LaLiga.es" group-title="SPORT-RESERVA",M+ LaLigaTV
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26247?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-laliga-es.png" tvg-name="M.LaLiga.es" group-title="SPORT-RESERVA",M+ LaLigaTV 2K
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26141?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-laliga-es.png" tvg-name="M.LaLiga.es" group-title="SPORT-RESERVA",M+ LaLigaTV 4K
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26142?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-laliga-es.png" tvg-name="M.LaLiga.es" group-title="SPORT-RESERVA",M+ LaLigaTV
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3849?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-laliga-es.png" tvg-name="M.LaLiga.es" group-title="SPORT-RESERVA",M LaLiga
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27224?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LaLiga2.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-laliga-2-es.png" tvg-name="M.LaLiga2.es" group-title="SPORT-RESERVA",M+ LaLigaTV 2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26048?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LaLiga2.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-laliga-2-es.png" tvg-name="M.LaLiga2.es" group-title="SPORT-RESERVA",M+ LaLigaTV 2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26045?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LaLiga3.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-laliga-3-es.png" tvg-name="M.LaLiga3.es" group-title="SPORT-RESERVA",M+ LaLigaTV 3
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/24927?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LaLiga3.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-laliga-3-es.png" tvg-name="M.LaLiga3.es" group-title="SPORT-RESERVA",M+ LaLigaTV 3
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26044?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LaLiga4.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-laliga-4-es.png" tvg-name="M.LaLiga4.es" group-title="SPORT-RESERVA",M+ LaLigaTV 4
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/390?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LaLiga5.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-laliga-5-es.png" tvg-name="M.LaLiga5.es" group-title="SPORT-RESERVA",M+ LaLigaTV 5
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/24926?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LaLiga6.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-laliga-6-es.png" tvg-name="M.LaLiga6.es" group-title="SPORT-RESERVA",M+ LaLigaTV 6
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/24925?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LaLiga7.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-laliga-7-es.png" tvg-name="M.LaLiga7.es" group-title="SPORT-RESERVA",M+ LaLigaTV 7
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/393?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LaLiga8.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-laliga-8-es.png" tvg-name="M.LaLiga8.es" group-title="SPORT-RESERVA",M+ LaLigaTV 8
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/394?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LaLiga9.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-laliga-9-es.png" tvg-name="M.LaLiga9.es" group-title="SPORT-RESERVA",M+ LaLigaTV 9
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/24924?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LaLiga10.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-laliga-es.png" tvg-name="M.LaLiga10.es" group-title="SPORT-RESERVA",M+ LaLigaTV 10
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/24928?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-laliga-es.png" tvg-name="M.LaLiga.es" group-title="SPORT-RESERVA",beIN SPORTS Espana
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26321?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-laliga-es.png" tvg-name="M.LaLiga.es" group-title="SPORT-RESERVA",Bein Laliga beIN Sport
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/386?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="LaLigaTVHypermotion.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/LigaSmartBamk.png" tvg-name="LaLigaTVHypermotion.es" group-title="SPORT-RESERVA",Liga Hypermotion
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27164?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="LaLigaTVHypermotion.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/LigaSmartBamk.png" tvg-name="LaLigaTVHypermotion.es" group-title="SPORT-RESERVA",Liga Hypermotion
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27166?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="LaLigaTVHypermotion2.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/LigaSmartBamk.png" tvg-name="LaLigaTVHypermotion2.es" group-title="SPORT-RESERVA",Liga Hypermotion 2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27194?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="LaLigaTVHypermotion2.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/LigaSmartBamk.png" tvg-name="LaLigaTVHypermotion2.es" group-title="SPORT-RESERVA",Liga Hypermotion 2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27196?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="LaLigaTVHypermotion3.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/LigaSmartBamk.png" tvg-name="LaLigaTVHypermotion3.es" group-title="SPORT-RESERVA",Liga Hypermotion 3
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27195?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="LaLigaTVHypermotion3.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-laliga-es.png" tvg-name="LaLigaTVHypermotion3.es" group-title="SPORT-RESERVA",Liga Hypermotion 3
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/357?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="LaLigaTVHypermotion3.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/LigaSmartBamk.png" tvg-name="LaLigaTVHypermotion3.es" group-title="SPORT-RESERVA",Liga Hypermotion 3
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27197?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-liga-de-campeones-es.png" tvg-name="M.LigaCampeones.es" group-title="SPORT-RESERVA",M+ LCAMPEONES
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/445?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-liga-de-campeones-es.png" tvg-name="M.LigaCampeones.es" group-title="SPORT-RESERVA",M+ LCAMPEONES
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26315?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-laliga-es.png" tvg-name="M.LigaCampeones.es" group-title="SPORT-RESERVA",M+ LCAMPEONES 4K
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26140?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-liga-de-campeones-es.png" tvg-name="M.LigaCampeones.es" group-title="SPORT-RESERVA",M+ LCAMPEONES
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27233?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-liga-de-campeones-es.png" tvg-name="M.LigaCampeones.es" group-title="SPORT-RESERVA",M+ LCAMPEONES
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27232?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-liga-de-campeones-es.png" tvg-name="M.LigaCampeones.es" group-title="SPORT-RESERVA",M+ LCAMPEONES
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26078?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-liga-de-campeones-es.png" tvg-name="M.LigaCampeones.es" group-title="SPORT-RESERVA",M+ LCAMPEONES
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26316?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-liga-de-campeones-es.png" tvg-name="M.LigaCampeones.es" group-title="SPORT-RESERVA",M+ LCAMPEONE
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26317?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-liga-de-campeones-es.png" tvg-name="M.LigaCampeones.es" group-title="SPORT-RESERVA",M+ LCAMPEONES
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26318?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-liga-de-campeones-es.png" tvg-name="M.LigaCampeones.es" group-title="SPORT-RESERVA",M+ LCAMPEONES BAR
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27211?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LigaCampeones2.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-liga-de-campeones-2-es.png" tvg-name="M.LigaCampeones2.es" group-title="SPORT-RESERVA",M+ LCAMPEONES 2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/439?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LigaCampeones2.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-liga-de-campeones-2-es.png" tvg-name="M.LigaCampeones2.es" group-title="SPORT-RESERVA",M+ LCAMPEONES 2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26080?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LigaCampeones3.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-liga-de-campeones-3-es.png" tvg-name="M.LigaCampeones3.es" group-title="SPORT-RESERVA",M+ LCAMPEONES 3
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/440?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LigaCampeones3.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-liga-de-campeones-3-es.png" tvg-name="M.LigaCampeones3.es" group-title="SPORT-RESERVA",M+ LCAMPEONES 3
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26081?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LigaCampeones4.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-liga-de-campeones-4-es.png" tvg-name="M.LigaCampeones4.es" group-title="SPORT-RESERVA",M+ LCAMPEONES 4
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/441?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LigaCampeones4.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-liga-de-campeones-4-es.png" tvg-name="M.LigaCampeones4.es" group-title="SPORT-RESERVA",M+ LCAMPEONES 4
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26082?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LigaCampeones5.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-liga-de-campeones-5-es.png" tvg-name="M.LigaCampeones5.es" group-title="SPORT-RESERVA",M+ LCAMPEONES 5
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/442?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LigaCampeones5.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-liga-de-campeones-5-es.png" tvg-name="M.LigaCampeones5.es" group-title="SPORT-RESERVA",M+ LCAMPEONES 5
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26083?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LigaCampeones6.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-liga-de-campeones-6-es.png" tvg-name="M.LigaCampeones6.es" group-title="SPORT-RESERVA",M+ LCAMPEONES 6
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/443?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LigaCampeones6.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-liga-de-campeones-6-es.png" tvg-name="M.LigaCampeones6.es" group-title="SPORT-RESERVA",M+ LCAMPEONES 6
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26084?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LigaCampeones7.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-liga-de-campeones-7-es.png" tvg-name="M.LigaCampeones7.es" group-title="SPORT-RESERVA",M+ LCAMPEONES 7
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/444?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LigaCampeones7.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-liga-de-campeones-7-es.png" tvg-name="M.LigaCampeones7.es" group-title="SPORT-RESERVA",M+ LCAMPEONES 7
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26085?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LigaCampeones8.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-liga-de-campeones-8-es.png" tvg-name="M.LigaCampeones8.es" group-title="SPORT-RESERVA",M+ LCAMPEONES 8 
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26086?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-liga-de-campeones-es.png" tvg-name="" group-title="SPORT-RESERVA",M+ LCAMPEONES 9 
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26711?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-liga-de-campeones-es.png" tvg-name="" group-title="SPORT-RESERVA",M+ LCAMPEONES 10 
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26712?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-liga-de-campeones-es.png" tvg-name="" group-title="SPORT-RESERVA",M+ LCAMPEONES 11 
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26713?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-liga-de-campeones-es.png" tvg-name="" group-title="SPORT-RESERVA",M+ LCAMPEONES 12 
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26714?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-liga-de-campeones-es.png" tvg-name="" group-title="SPORT-RESERVA",M+ LCAMPEONES 13
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27215?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZN1.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-1-es.png" tvg-name="DAZN1.es" group-title="SPORT-RESERVA",DAZN 1
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/24923?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZN1.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-1-es.png" tvg-name="DAZN1.es" group-title="SPORT-RESERVA",DAZN 1
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26623?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZN1.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-1-es.png" tvg-name="DAZN1.es" group-title="SPORT-RESERVA",DAZN 1 4K
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26621?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZN2.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-2-es.png" tvg-name="DAZN2.es" group-title="SPORT-RESERVA",DAZN 2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/24922?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZN2.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-2-es.png" tvg-name="DAZN2.es" group-title="SPORT-RESERVA",DAZN 2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26624?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZN2.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-2-es.png" tvg-name="DAZN2.es" group-title="SPORT-RESERVA",DAZN 2 4K
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26622?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZN3.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-3-es.png" tvg-name="DAZN3.es" group-title="SPORT-RESERVA",DAZN 3
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26628?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZN3.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-3-es.png" tvg-name="DAZN3.es" group-title="SPORT-RESERVA",DAZN 3
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26630?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZN4.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-4-es.png" tvg-name="DAZN4.es" group-title="SPORT-RESERVA",DAZN 4
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26629?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZN4.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-4-es.png" tvg-name="DAZN4.es" group-title="SPORT-RESERVA",DAZN 4
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26631?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="BarcaTV.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/barca-tv-es.png" tvg-name="BarcaTV.es" group-title="SPORT-RESERVA",BARCA TV
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/384?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="BarcaTV.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/barca-tv-es.png" tvg-name="BarcaTV.es" group-title="SPORT-RESERVA",BARCA TV
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3823?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/UFC.png" tvg-name="" group-title="SPORT-RESERVA",UFC
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27172?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="ext" tvg-logo="" tvg-name="ext" group-title="SPORT-RESERVA",M+ DEPORTES2 FULL HD
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27913?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Eurosport2.es" tvg-logo="" tvg-name="Eurosport2.es" group-title="SPORT-RESERVA",EUROSPORT 2 FULL HD
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/28023?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/RED.png" tvg-name="" group-title="4K",>>>>>>>>>>>>>>>>>>>> 4K <<<<<<<<<<<<<<<<<<<<
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27151?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="LA1.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/tve-1-es.png" tvg-name="LA1.es" group-title="4K",LA 1 4K
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26150?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="LA2.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/tve-2-es.png" tvg-name="LA2.es" group-title="4K",LA 2 4K
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26151?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/antena-3-es.png" tvg-name="Antena3.es" group-title="4K",ANTENA 3 4K
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26152?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/cuatro-es.png" tvg-name="Cuatro.es" group-title="4K",CUATRO 4K
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26153?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/telecinco-es.png" tvg-name="Telecinco.es" group-title="4K",TELECINCO 4K
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26154?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="LaSexta.sp" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/lasexta-es.png" tvg-name="LaSexta.sp" group-title="4K",LA SEXTA 4K
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26155?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M+Cine.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/Cine.png" tvg-name="M+Cine.es" group-title="4K",M+ Cine 4K
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26156?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.Accion.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-accion-es.png" tvg-name="M.Accion.es" group-title="4K",M+ ACCION 4K
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26157?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.Comedia.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-comedia-es.png" tvg-name="M.Comedia.es" group-title="4K",M+ COMEDIA 4K
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26158?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.Drama.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-drama-es.png" tvg-name="M.Drama.es" group-title="4K",M+ DRAMA 4K
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26159?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.Series.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-series-es.png" tvg-name="M.Series.es" group-title="4K",M+ SERIES 4K
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26160?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M+Suspense.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/suspense.png" tvg-name="M+Suspense.es" group-title="4K",M+ Suspense 4K
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27181?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="AMC.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/amc-es.png" tvg-name="AMC.es" group-title="4K",AMC 4K
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27186?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Hollywood.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/canal-hollywood-es.png" tvg-name="Hollywood.es" group-title="4K",HOLLYWOOD 4K
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27182?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M+Originales.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/Originalespng.png" tvg-name="M+Originales.es" group-title="4K",M+ Originales 4K
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26172?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M+Vamos.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/vamos-es.png" tvg-name="M+Vamos.es" group-title="4K",M+ VAMOS 4K
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26267?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZN_F1.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-f1-es.png" tvg-name="DAZN_F1.es" group-title="4K",DAZN F1 4K
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26271?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZN3.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-3-es.png" tvg-name="DAZN3.es" group-title="4K",DAZN 3 4K
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27185?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DAZN4.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dazn-4-es.png" tvg-name="DAZN4.es" group-title="4K",DAZN 4 4K
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27184?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Eurosport1.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/eurosport-1-es.png" tvg-name="Eurosport1.es" group-title="4K",EUROSPORT1 4K
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26281?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Golf.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-golf-es.png" tvg-name="Golf.es" group-title="4K",M+ GOLF 4K
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26323?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-laliga-es.png" tvg-name="LaLigaTVBar.es" group-title="4K",LALIGATV BAR 4K
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26269?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-liga-de-campeones-es.png" tvg-name="M.LigaCampeones.es" group-title="4K",M+ LCAMPEONES HEVC
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26067?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/RED.png" tvg-name="" group-title="RESERVA",>>>>>>>>>>>>>>>>>>>> RESERVA <<<<<<<<<<<<<<<<<<<<
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27151?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="LA1.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/tve-1-es.png" tvg-name="LA1.es" group-title="RESERVA",LA 1
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/355?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="LA2.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/tve-2-es.png" tvg-name="LA2.es" group-title="RESERVA",LA 2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/421?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/antena-3-es.png" tvg-name="Antena3.es" group-title="RESERVA",ANTENA 3
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/348?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/cuatro-es.png" tvg-name="Cuatro.es" group-title="RESERVA",CUATRO
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/351?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/telecinco-es.png" tvg-name="Telecinco.es" group-title="RESERVA",TELECINCO
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/374?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="LaSexta.sp" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/lasexta-es.png" tvg-name="LaSexta.sp" group-title="RESERVA",LA SEXTA
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/356?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="FDF.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/fdf-es.png" tvg-name="FDF.es" group-title="RESERVA",FDF
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/415?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Energy.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/energy-es.png" tvg-name="Energy.es" group-title="RESERVA",ENERGY
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/413?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/tdp-es.png" tvg-name="Teledeporte.es" group-title="RESERVA",TELEDEPORTE
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/457?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/24h-es.png" tvg-name="24Horas.es" group-title="RESERVA",24 HORAS
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/380?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="ClanTVE.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/clan-es.png" tvg-name="ClanTVE.es" group-title="RESERVA",CLAN TVE
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/403?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/boing-es.png" tvg-name="Boing.es" group-title="RESERVA",BOING
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/396?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DisneyChannel.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/disney-channel-es.png" tvg-name="DisneyChannel.es" group-title="RESERVA",DISNEY CH
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/434?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Divinity.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/divinity-es.png" tvg-name="Divinity.es" group-title="RESERVA",DIVINITY
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/412?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Neox.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/neox-es.png" tvg-name="Neox.es" group-title="RESERVA",NEOX
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/450?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Nova.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/nova-es.png" tvg-name="Nova.es" group-title="RESERVA",NOVA
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/453?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Paramount.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/paramount-network-es.png" tvg-name="Paramount.es" group-title="RESERVA",PARAMOUNT
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3855?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Paramount.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/paramount-network-es.png" tvg-name="Paramount.es" group-title="RESERVA",PARAMOUNT NETWORK
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/454?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="GOL.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/gol-es.png" tvg-name="GOL.es" group-title="RESERVA",GOL PLAY
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/418?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="A3seriesHD.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/atreseries-es.png" tvg-name="A3seriesHD.es" group-title="RESERVA",A3SERIES
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26343?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/real-madrid-tv-es.png" tvg-name="RealMadridTV.es" group-title="RESERVA",Realmadrid TV
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/455?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="BeMadTV.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/be-mad-tv-es.png" tvg-name="BeMadTV.es" group-title="RESERVA",BE MAD
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/385?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="BeMadTV.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/be-mad-tv-es.png" tvg-name="BeMadTV.es" group-title="RESERVA",BeMad tv
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/25870?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="AragonTVsat.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/aragon-tv-es.png" tvg-name="AragonTVsat.es" group-title="RESERVA",ARAGON TV
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3820?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DisneyJr.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/disney-junior-es.png" tvg-name="DisneyJr.es" group-title="RESERVA",DISNEY JR
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3838?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/nickelodeon-es.png" tvg-name="Nickelodeon.es" group-title="RESERVA",NICKELODEON
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3853?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="NickJunior.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/nick-jr-es.png" tvg-name="NickJunior.es" group-title="RESERVA",NICK JR
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3852?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Enfamilia.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/Enfamila.png" tvg-name="Enfamilia.es" group-title="RESERVA",ENFAMILIA
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3830?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="BabyTV.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/baby-tv-es.png" tvg-name="BabyTV.es" group-title="RESERVA",BABY TV
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3822?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Dreamworks.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/dreamworks-channel-es.png" tvg-name="Dreamworks.es" group-title="RESERVA",DreamWorks
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27216?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M+Musica.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-fest-es.png" tvg-name="M+Musica.es" group-title="RESERVA",M+ Musica
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27192?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M+Cine.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/Cine.png" tvg-name="M+Cine.es" group-title="RESERVA",M+ Cine
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/364?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="MovistarPlus.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/M+.png" tvg-name="MovistarPlus.es" group-title="RESERVA",Movistar Plus+
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26663?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.Accion.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-accion-es.png" tvg-name="M.Accion.es" group-title="RESERVA",M+ ACCION
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/358?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-accion-es.png" tvg-name="" group-title="RESERVA",M+ ACCION 2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27198?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.Comedia.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-comedia-es.png" tvg-name="M.Comedia.es" group-title="RESERVA",M+ COMEDIA
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/363?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.Drama.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-drama-es.png" tvg-name="M.Drama.es" group-title="RESERVA",M+ DRAMA
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/360?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-drama-es.png" tvg-name="" group-title="RESERVA",M+ DRAMA 2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27201?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.CineEspanol.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-cine-espanol-es.png" tvg-name="M.CineEspanol.es" group-title="RESERVA",M+ Cine Español
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3847?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.Clasicos.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-clasicos-es.png" tvg-name="M.Clasicos.es" group-title="RESERVA",M+ CLASICOS
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26665?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Hollywood.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/canal-hollywood-es.png" tvg-name="Hollywood.es" group-title="RESERVA",HOLLYWOOD
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3796?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="TCM.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/tcm-es.png" tvg-name="TCM.es" group-title="RESERVA",TCM
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3813?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="WarnerTV.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/warner-tv-es.png" tvg-name="WarnerTV.es" group-title="RESERVA",WarnerTV
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3815?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M+Originales.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/Originalespng.png" tvg-name="M+Originales.es" group-title="RESERVA",M+ Originales
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/378?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M.Series.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/movistar-series-es.png" tvg-name="M.Series.es" group-title="RESERVA",M+ SERIES
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/362?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M+Suspense.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/suspense.png" tvg-name="M+Suspense.es" group-title="RESERVA",M+ Suspense
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/26662?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Fox.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/fox-es.png" tvg-name="Fox.es" group-title="RESERVA",FOX
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3795?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="AXNhd.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/axn-es.png" tvg-name="AXNhd.es" group-title="RESERVA",AXN
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3791?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="AMCBreak.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/amc break.png" tvg-name="AMCBreak.es" group-title="RESERVA",AMC BREAK
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27191?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="AMCCrime.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/amc crime.png" tvg-name="AMCCrime.es" group-title="RESERVA",AMC CRIME
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27190?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Scifi.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/syfy-es.png" tvg-name="Scifi.es" group-title="RESERVA",SYFY
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3812?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Calle13.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/calle-13-es.png" tvg-name="Calle13.es" group-title="RESERVA",CALLE 13
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3792?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="ComedyCentral.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/comedy-central-es.png" tvg-name="ComedyCentral.es" group-title="RESERVA",COMEDYCENTRAL
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3833?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M+Documentales.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/MDocu.png" tvg-name="M+Documentales.es" group-title="RESERVA",M+Documentales
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27682?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Odisea.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/odisea-es.png" tvg-name="Odisea.es" group-title="RESERVA",CANAL ODISEA
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/399?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="NationalGeographic.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/national-geographic-es.png" tvg-name="NationalGeographic.es" group-title="RESERVA",NAT GEO
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3810?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="NatGeoWild.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/national-geographic-wild-es.png" tvg-name="NatGeoWild.es" group-title="RESERVA",NG WILD
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3811?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="DiscoveryIberia.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/discovery-channel-es.png" tvg-name="DiscoveryIberia.es" group-title="RESERVA",DISCOVERY
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3836?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Historia.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/historia-es.png" tvg-name="Historia.es" group-title="RESERVA",HISTORIA
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3844?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Decasa.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/decasa-es.png" tvg-name="Decasa.es" group-title="RESERVA",CANAL DECASA
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3828?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/caza-y-pesca-es.png" tvg-name="CazayPesca.es" group-title="RESERVA",CAZAyPESCA
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/402?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/iberalia-tv-es.png" tvg-name="IberaliaTV.es" group-title="RESERVA",IBERALIA TV
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3845?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/Mundotoro.png" tvg-name="" group-title="RESERVA",MUNDO TORO
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27229?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/Mundotoro.png" tvg-name="" group-title="RESERVA",MUNDO TORO
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27239?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="CosmopolitanHD.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/cosmo-es.png" tvg-name="CosmopolitanHD.es" group-title="RESERVA",COSMO
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3834?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Cocina.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/canal-cocina-es.png" tvg-name="Cocina.es" group-title="RESERVA",CANAL COCINA
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/3827?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="Sundance.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/sundance-tv-es.png" tvg-name="Sundance.es" group-title="RESERVA",SUNDANCE TV
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/456?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/7and.png" tvg-name="" group-title="RESERVA",7TV ANDALUCIA
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/25846?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="AragonTVsat.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/aragon-tv-es.png" tvg-name="AragonTVsat.es" group-title="RESERVA",ARAGON TV INT
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/381?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="MTVEsp.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/mtv-es.png" tvg-name="MTVEsp.es" group-title="RESERVA",MTV ESPANA
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/28026?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="MovistarPlus.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/M+.png" tvg-name="MovistarPlus.es" group-title="RESERVA",Movistar Plus+ 2
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27177?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/" tvg-name="" group-title="RESERVA",M+ Terror
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27912?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M+Indie.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/" tvg-name="M+Indie.es" group-title="RESERVA",M+Indie
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/27909?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+#EXTINF:-1 tvg-id="M+LaResistencia.es" tvg-logo="https://raw.githubusercontent.com/flserranof/Fotos/main/" tvg-name="M+LaResistencia.es" group-title="RESERVA",M+ La Resistencia
+http://0b435eb703a713138531e44370d083ce.spa.iscaja.me:25461/sPcZkTxGVY/651953213159/28024?h=eb4b9252f5a34ebd6e7c0a28814b1928de16fb45&z=2a0c:5a81:3102:9d00:b516:9c73:5770:4f56&i=44695
+
+
+
+
+
+
+
